@@ -1,2 +1,2 @@
 # movie-database-management
-simple web development project
+simple database managaement project
